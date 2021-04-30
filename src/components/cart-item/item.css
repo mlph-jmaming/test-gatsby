@@ -1,0 +1,48 @@
+.item-container {
+  width: 200px;
+  height: 200px;
+  border: solid 1px gray;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+}
+
+.item-image {
+  height: 120px;
+  width: 100%;
+  margin: 5px;
+  padding-right: 10px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 100%;
+  height: max-content;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+
+.icon-size {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.buy-style {
+  height: max-content;
+  cursor: pointer;
+  background: transparent;
+  border: transparent;
+  color: blue;
+}
+
+.buy-style:hover {
+  text-decoration: underline;
+}
+
+.center-text {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}

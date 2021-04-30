@@ -1,0 +1,27 @@
+.details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  margin: auto;
+  width: 550px;
+  height: 550px;
+}
+
+.item-details-image {
+  height: 120px;
+  width: 200px;
+  margin: 5px;
+  padding-right: 10px;
+}
+
+.details-format {
+  width: 400px;
+  text-align: start;
+}
+
+.button-buy {
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}

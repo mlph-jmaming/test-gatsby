@@ -1,0 +1,18 @@
+.login-page-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 50px 100px 50px 100px;
+}
+
+.btn-login {
+  margin-top: 50px;
+  width: 100px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-style {
+  margin-top: 20px;
+}
